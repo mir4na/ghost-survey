@@ -3,7 +3,9 @@ Title: Ghost Survey
 Description:
 An intern built a tiny survey app for a haunted museum. It runs fine in casual tests, but real visitors keep crashing it in weird ways. Your job is to figure out what the program is really doing and recover the flag.
 
-Attachment:
+
+
+Attachment: https://drive.google.com/drive/folders/130nQfCcQHTW3whe8vGzSpyEJ1HVxjo-R?usp=sharing
 - chall.c (source)
 - chall (binary)
 - ld-2.31.so (loader)
